@@ -1,6 +1,6 @@
 name: Magdalena Osak
-title: GitHub - Documentation and Publishing 
-description: An example of technical documentation hosted on Github pages. 
+title: Docs about the docs.  
+description:  This is my final project.
 remote_theme: madzka/docs-about-the-docs
 
 color_scheme: light
@@ -9,9 +9,9 @@ color_scheme: light
 
 aux_links:
   "Source repository on GitHub":
-    - "//https://madzka.github.io/docs-about-the-dosc//
+    - "//github.com/madzka.github.io/docs-about-the-dosc.io"
 
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "This documentation is part of the homework project"
+footer_content: "This documentation is my final project"
