@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="c_how_to_use_oxygen_and_dita_in_the_process_of_documentation"
+               path="Chapter%201/c_oXygen_and_DITA_in_the_process_of_documentation.html"/>
+   <appContext helpID="t_tools_installation"
+               path="Chapter%202/t_tools_installation.html"/>
+   <appContext helpID="c_creating_concept_topic"
+               path="NEW%20PROJECT/CREATING%20PROJECT/c_creating_concept_topic.html"/>
+   <appContext helpID="r_creating_reference_topic"
+               path="NEW%20PROJECT/CREATING%20PROJECT/r_creating_reference_topic.html"/>
+   <appContext helpID="t_my_first_project"
+               path="NEW%20PROJECT/CREATING%20PROJECT/t_my_first_project.html"/>
+   <appContext helpID="t_oxygen_setup"
+               path="NEW%20PROJECT/CREATING%20PROJECT/t_oxygen_setup.html"/>
+   <appContext helpID="t_creating_task_topic"
+               path="NEW%20PROJECT/CREATING%20PROJECT/t_creating_task_topic.html"/>
+   <appContext helpID="c_dita_map"
+               path="NEW%20PROJECT/HTML%20and%20PDF%20OUTPUT-%20DITA_MAP/c_dita_map.html"/>
+   <appContext helpID="t_creating_pdf_and_html"
+               path="NEW%20PROJECT/HTML%20and%20PDF%20OUTPUT-%20DITA_MAP/t_creating_pdf_and_html.html"/>
+</map>

@@ -1,0 +1,1 @@
+define({"topics":[{"title":"Creating PDF and HTML","shortdesc":"<p class=\"shortdesc\"\/>","href":"NEW%20PROJECT\/HTML%20and%20PDF%20OUTPUT-%20DITA_MAP\/t_creating_pdf_and_html.html","attributes":{"data-id":"t_creating_pdf_and_html"},"menu":{"hasChildren":false},"tocID":"t_creating_pdf_and_html-d195e240","topics":[]}]});
